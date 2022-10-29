@@ -38,7 +38,6 @@ class Home extends React.Component {
                     Donation
                   </a>
                 </li>
-                
               </ul>
             </div>
           </nav>
@@ -62,7 +61,7 @@ class Home extends React.Component {
         </div>
 
         <div className="footer">
-          <a href="https://github.com/vunnelsewhere/ReactApp.git">
+          <a href="https://github.com/vunnelsewhere/ReactCreative.git">
             GitHub
           </a>
         </div>

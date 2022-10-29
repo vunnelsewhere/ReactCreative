@@ -38,7 +38,6 @@ class Gallery extends React.Component {
                     Donation
                   </a>
                 </li>
-                
               </ul>
             </div>
           </nav>
@@ -54,9 +53,7 @@ class Gallery extends React.Component {
 
         <div className="container">
           <div className="row">
-            <div className="column-66">
-              
-            </div>
+            <div className="column-66"></div>
             <div className="column-33">
               <img src="images/trail.jpg" />
             </div>
@@ -65,10 +62,7 @@ class Gallery extends React.Component {
 
         <div className="container">
           <div className="row">
-            <div className="column-66">
-              
-                
-            </div>
+            <div className="column-66"></div>
             <div className="column-33">
               <img src="images/market.jpg" />
             </div>
@@ -81,19 +75,15 @@ class Gallery extends React.Component {
               <img src="images/clock.jpg" />
             </div>
 
-            <div className="column-66">
-              
-            </div>
+            <div className="column-66"></div>
           </div>
         </div>
 
-
-		<div className="footer">
-          <a href="https://github.com/vunnelsewhere/ReactApp.git">
+        <div className="footer">
+          <a href="https://github.com/vunnelsewhere/ReactCreative.git">
             GitHub
           </a>
         </div>
-
       </div>
     );
   }
